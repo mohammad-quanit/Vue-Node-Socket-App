@@ -1,4 +1,4 @@
-# client
+# Vuejs Socket implementation using Node express Socket.io
 
 ## Project setup
 ```
